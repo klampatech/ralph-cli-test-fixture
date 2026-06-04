@@ -6,4 +6,5 @@
 - [ ] (no pending items)
 
 ## Notes
-- All specs implemented and tests passing as of loop iteration 1
+- All specs implemented and tests passing as of loop iteration 2
+- No new specs discovered in specs/ directory
